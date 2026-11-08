@@ -1,3 +1,5 @@
+<img width="1801" height="1081" alt="image" src="https://github.com/user-attachments/assets/382c74c2-c440-4009-b407-c2b79ded55ef" />
+
 # RS1_BeatTheta
 
 A compact diffusion model, trained entirely on code-generated audio, that produces ambient sound textures for
